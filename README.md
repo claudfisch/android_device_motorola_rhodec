@@ -20,3 +20,22 @@ Completed Tasks:
         - system_ext_b.img: empty
         - vendor_a.img: ext2 filesystem data, UUID=
         - vendor_b.img: empty
+          
+Created but I do not know if it enough for a build:
+- proprietary-files-carriersettings.txt
+- proprietary-files-product.txt
+- proprietary-files-system_ext.txt
+- proprietary-files-vendor.txt
+
+⏱️ In Process:
+- proprietary-files.txt (Incomplete - missing touch)
+- proprietary-firmware.txt
+- Android.bp
+- AndroidProducts.mk
+- BoardConfig.mk
+- device.mk
+- system_ext.prop
+- vendor.prop
+- vendor_boot.modules.load
+- lineage.dependencies
+- lineage_rhodec.mk
