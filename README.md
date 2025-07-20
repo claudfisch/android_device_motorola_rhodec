@@ -8,7 +8,7 @@ My reference pages are:
 - [Lineage Build Page](https://wiki.lineageos.org/devices/rhode/build/)
 - [/e/os Build Page](https://doc.e.foundation/support-topics/build-e)
 
-Completed Tasks:
+✔️ Completed Tasks:
 - Stockrom from Motorola: RHODEC_G_T1SSS33.1_119_8_15_subsidy_DEFAULT_regulatory_XT2223_1_RETEU_cid50_CFC.zip
 - super.img_sparsechunks_{0…12} to super.img
     - Extracted images:
