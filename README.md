@@ -39,4 +39,6 @@ Created but I do not know if it enough for a build:
 - vendor.prop
 - vendor_boot.modules.load
 - lineage.dependencies
+
+✔️ Done
 - lineage_rhodec.mk
