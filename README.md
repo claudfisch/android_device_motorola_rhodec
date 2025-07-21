@@ -31,8 +31,6 @@ Created but I do not know if it enough for a build:
 ⏱️ In Process:
 - proprietary-files.txt (Incomplete - missing touch)
 - proprietary-firmware.txt
-- Android.bp
-- AndroidProducts.mk
 - BoardConfig.mk
 - device.mk
 - system_ext.prop
@@ -40,5 +38,7 @@ Created but I do not know if it enough for a build:
 - vendor_boot.modules.load
 
 ✔️ Done
+- Android.bp
+- AndroidProducts.mk
 - lineage.dependencies
 - lineage_rhodec.mk
