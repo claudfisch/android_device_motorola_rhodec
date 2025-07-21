@@ -4,6 +4,7 @@ I try to compile /e/os the hard way, because it gives no twrp.img or LineageOS.z
 Please help me out if you can. Is my first time to compile self a OS for android.
 
 My reference pages are:
+- [Device Tree Moto sm6225 - Lineage 22.2](https://github.com/LineageOS/android_device_motorola_sm6225-common/tree/lineage-22.2)
 - [Device Tree Moto G52 - Lineage 22.2](https://github.com/LineageOS/android_device_motorola_rhode/tree/lineage-22.2)
 - [Lineage Build Page](https://wiki.lineageos.org/devices/rhode/build/)
 - [/e/os Build Page](https://doc.e.foundation/support-topics/build-e)
