@@ -13,14 +13,12 @@ My reference pages are:
 - Stockrom from Motorola: RHODEC_G_T1SSS33.1_119_8_15_subsidy_DEFAULT_regulatory_XT2223_1_RETEU_cid50_CFC.zip
 - super.img_sparsechunks_{0…12} to super.img
     - Extracted images:
-        - product_a.img: ext2 filesystem data, UUID=
-        - product_b.img: empty
-        - system_a.img: ext2 filesystem data, UUID=
-        - system_b.img: ext2 filesystem data, UUID=
-        - system_ext_a.img: ext2 filesystem data, UUID=
-        - system_ext_b.img: empty
-        - vendor_a.img: ext2 filesystem data, UUID=
-        - vendor_b.img: empty
+        |Image|Filesystem|Image|Filesystem|
+        |--|--|--|--|
+        |product_a.img|ext2 data|system_a.img|ext2 data|
+        |product_b.img|empty|system_b.img|ext2 data|
+        |system_ext_a.img|ext2 data|vendor_a.img|ext2 data|
+        |system_ext_b.img|empty|vendor_b.img|empty|
           
 Created but I do not know if it enough for a build:
 - proprietary-files-carriersettings.txt
