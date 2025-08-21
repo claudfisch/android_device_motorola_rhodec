@@ -1,4 +1,7 @@
 # Android Device: Motorola G62 5G - Codename: rhodec
+
+## I am still working on this project, but my focus is a little bit less nowadays, because I have too much work on my daily job!
+
 I try to compile /e/os the hard way, because it gives no twrp.img or LineageOS.zip or eOS.zip for my device.
 
 Please help me out if you can. Is my first time to compile self a OS for android.
